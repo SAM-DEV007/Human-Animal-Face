@@ -20,6 +20,13 @@ The [Model](/Model) is trained to detect 15 different animals:
 
 A working webcam is mandatory for the project to work. The window can be terminated via `Esc`, `Q` or the close button.
 
+# Model
+ ## Model
+ More information on the model is provided [here](/Model/README.md).
+
+ ## Dataset
+ The dataset can be downloaded from [here]().
+
 # Installation
 - Python version 3.9.10.
 - Libraries can be installed -> `pip install -r /path/to/requirements.txt`.
