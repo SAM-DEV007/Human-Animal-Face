@@ -13,4 +13,4 @@ The Model and the Original Imagenet Weights are saved in [Model_Data](Model_Data
 The files in the dataset can be refered from the [README](/README.md) in the main directory.
 
 The dataset has to be downloaded, and has to be extracted with the folders (`test` and `train`) to be inside `Dataset` folder. For detailed instructions, refer 
-to [README.md](Dataset/README.md).
+to [README](Dataset/README.md).
