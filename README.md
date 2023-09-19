@@ -27,7 +27,7 @@ A working webcam is mandatory for the project to work. The window can be termina
  More information on the model is provided [here](/Model/README.md).
 
  ## Dataset
- The dataset can be downloaded from [here]().
+ The dataset can be downloaded from [here](Model/Dataset/README.md).
 
 # Installation
 - Python version 3.9.10.
