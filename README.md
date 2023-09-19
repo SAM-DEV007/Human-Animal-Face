@@ -18,6 +18,8 @@ The [Model](/Model) is trained to detect 15 different animals:
 - Tiger
 - Zebra
 
+Execute [Detect_Face.py](/Detect_Face.py) to start the program.
+
 A working webcam is mandatory for the project to work. The window can be terminated via `Esc`, `Q` or the close button.
 
 # Model
