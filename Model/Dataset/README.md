@@ -10,3 +10,5 @@ The following instructions has to be followed to properly place the dataset:
 
 If a new folder, let's say A, is created after extraction which contains `train` and `test` folder in it, copy and paste both the folders (`train` and `test`)
 out of A inside `Dataset` folder and delete the folder A. Make sure to match the directory with that given above.
+
+No other file/folder should be there inside `Dataset` folder, but `test` and `train`.
